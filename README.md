@@ -16,9 +16,9 @@ Este modelo pode ser usado como base para futuras expansões e personalizações
 
 ## ⚙ Estrutura
 Essa ferramenta contém os seguintes painéis:
-- TÍTULAR
-- INFORMES
-- NOTAS
+- [TÍTULAR](#etapa-1-títular)
+- [INFORMES](#etapa-2-informes)
+- [NOTAS](#etapa-3-notas)
 
 Pode ser feita a transição desses painéis clicando nos botôes no cabeçalho dos Dashboards (Anterior / Próximo), seguindo a ordem descrita acima.   
 Não apenas isso, mas  o usuário pode utilizar os botões do lado esquerdo, para pular diretamente aos painéis. 
