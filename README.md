@@ -104,13 +104,15 @@ Vou deixar também na pasta a versão EXPERIMENTAL da ferramenta, contendo um gr
 
 <details> 
 <summary> Versão EXPERIMENTAL da ferramenta com um gráfico para testes/ajustes </summary>
-[🔬Baixar planilha EXPERIMENTAL para testes](ProjetoEXCEL/EXPERIMENTAL/)
-Essa versão alternativa foi criada para deixar uma opção a mais de visualizar os dados da tabela de ENTRADAS, no painel de NOTAS.   
 
-Na tentativa de criar um gráfico que divide as categorias, identificando as maiores entradas e as menores de MÊS A MÊS, tive alguns problemas em deixar ela 100% automática.   
-Isso porque ela não atualiza os dados caso seja adicionado uma nova entrada.   
-É necessário o próprio usuário clicar no gráfico com o botão direito, e selecionar a opção "*Atualizar Dados*", para que assim apareça no gráfico os novos dados.   
+[🔬Baixar planilha EXPERIMENTAL para testes](ProjetoEXCEL/EXPERIMENTAL)   
+   
+> Essa versão alternativa foi criada para deixar uma opção a mais de visualizar os dados da tabela de ENTRADAS, no painel de NOTAS.   
 
-Utilize a planilha caso queira explorar essa funcionalidade com esse ponto descrito acima. 
+> Na tentativa de criar um gráfico que divide as categorias, identificando as maiores entradas e as menores de MÊS A MÊS, tive alguns problemas em deixar ela 100% automática.   
+> Isso porque ela não atualiza os dados caso seja adicionado uma nova entrada.   
+> É necessário o próprio usuário clicar no gráfico com o botão direito, e selecionar a opção "*Atualizar Dados*", para que assim apareça no gráfico os novos dados.   
+
+Utilize esta planilha caso queira explorar essa funcionalidade com esse ponto descrito acima. 
 
 </details>
