@@ -23,8 +23,10 @@ Essa ferramenta contém os seguintes painéis:
 Pode ser feita a transição desses painéis clicando nos botôes no cabeçalho dos Dashboards (Anterior / Próximo), seguindo a ordem descrita acima.   
 Não apenas isso, mas  o usuário pode utilizar os botões do lado esquerdo, para pular diretamente aos painéis. 
 
-Nos painéis de TÍTULAR e INFOMES, os campos que estão com FUNDO AMARELO são os que o usuário pode editar para colocar sua entrada. Enquanto no painel de NOTAS os campos editáveis são os que estão dentro da tabela.
-(IMAGEM 1, 2, 3)
+Nos painéis de TÍTULAR e INFOMES, os campos que estão com FUNDO AMARELO são os que o usuário pode editar para colocar sua entrada. Enquanto no painel de NOTAS os campos editáveis são os que estão dentro da tabela. 
+
+<img src="images/IMG1-titular.png" alt="Imagem 1" width="460"/> <img src="images/IMG2-informes.png" alt="Imagem 2" width="460"/>   
+<img src="images/IMG3-notas.png" alt="Imagem 3" width="925"/>
 
 
 ## 🧱 Passo a Passo
@@ -49,7 +51,8 @@ Também tem três campos para sempre ajustar e declarar, caso ocorra novas atual
   12. HOUVE ALTERAÇÕES DA ENTREGA ANTERIOR? : Sim/Não; 
   13. DEPÊNDENTE CÔNJUGE? : Sim/Não; 
   14. RESIDÊNTE DO EXTERIOR? : Sim/Não; 
-(IMAGEM 4)
+
+<img src="images/IMG4-exemplotitular.png" alt="Imagem 4" width="650"/>
 
 
 ### Etapa 2: INFORMES
@@ -63,7 +66,8 @@ Você pode adicionar de 1 a 3 bancos vinculado ao seu CPF.
 
 ***TOTAL***
 Valor total calculados com o bancos inseridos neste painel 
-(IMAGEM 5)
+
+<img src="images/IMG5-exemploinformes.png" alt="Imagem 5" width="650"/>
 
 
 ### Etapa 3: NOTAS
@@ -80,7 +84,9 @@ Cada uma das linhas é uma entrada exclusiva que recebeu no mês, e é dividído
   4. Coluna DECLARADOS: Confirmação se essa entrada se aplica para a declaração de Imposto de Renda. 
   
 Não só nessa tabela contém filtros para auxiliar na análise dos dados, mas também temos uma **Segmentação de Dados** para deixar mais prático o controle das informações. Isso inclui as *CATEGORIAS*, *MÊS & ANO* e *DECLARADOS*. 
-(imagem 6)
+
+<img src="images/IMG6-exemplonotas.png" alt="Imagem 6" width="650"/>
+
 
 ## 🛠 Considerações Finais
 Também tem uma planilha chamada ****"CONFIG"**** que contém os ***NOMES DOS BANCOS*** e os tipos predefinidos de ***CATEGORIA*** para a validação de dados, importante para que os painéis funcionem corretamente.
