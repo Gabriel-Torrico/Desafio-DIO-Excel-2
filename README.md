@@ -94,12 +94,23 @@ Não só nessa tabela contém filtros para auxiliar na análise dos dados, mas t
 Também tem uma planilha chamada ****"CONFIG"**** que contém os ***NOMES DOS BANCOS*** e os tipos predefinidos de ***CATEGORIA*** para a validação de dados, importante para que os painéis funcionem corretamente.
 
 Gostaria de agradecer ao professor da DIO, Felipe Aguiar, pelas aulas fantásticas e explicações sobre o tema.
-Futuramente posso fazer um ajuste ou outro no arquivo e em suas funcionalidades, caso necessário.
+Futuramente posso fazer um ajuste ou outro no arquivo e em suas funcional idades, caso necessário.
 
 Vou deixar também na pasta a versão EXPERIMENTAL da ferramenta, contendo um gráfico a mais
 
 ## 📥 Download da Planilha do Projeto
 
-[📊 Baixar planilha Excel]
+[📊 Baixar planilha Excel](ProjetoEXCEL/Desafio_Excel_DIO-Ferramenta_IR%20(1.0).xlsx)
 
+<details> 
+<summary> Versão EXPERIMENTAL da ferramenta com um gráfico para testes/ajustes </summary>
+[🔬Baixar planilha EXPERIMENTAL para testes](ProjetoEXCEL/EXPERIMENTAL/)
+Essa versão alternativa foi criada para deixar uma opção a mais de visualizar os dados da tabela de ENTRADAS, no painel de NOTAS.   
 
+Na tentativa de criar um gráfico que divide as categorias, identificando as maiores entradas e as menores de MÊS A MÊS, tive alguns problemas em deixar ela 100% automática.   
+Isso porque ela não atualiza os dados caso seja adicionado uma nova entrada.   
+É necessário o próprio usuário clicar no gráfico com o botão direito, e selecionar a opção "*Atualizar Dados*", para que assim apareça no gráfico os novos dados.   
+
+Utilize a planilha caso queira explorar essa funcionalidade com esse ponto descrito acima. 
+
+</details>
