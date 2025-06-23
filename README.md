@@ -28,6 +28,7 @@ Nos painéis de TÍTULAR e INFOMES, os campos que estão com FUNDO AMARELO são 
 <img src="images/IMG1-titular.png" alt="Imagem 1" width="460"/> <img src="images/IMG2-informes.png" alt="Imagem 2" width="460"/>   
 <img src="images/IMG3-notas.png" alt="Imagem 3" width="925"/>
 
+> OBS:Também temos um painel oculto chamado [CONFIG](images/IMG7-CONFIG.png), que serve para armazenar dados dos bancos, e também para validação de dados.
 
 ## 🧱 Passo a Passo
 
@@ -81,7 +82,8 @@ Cada uma das linhas é uma entrada exclusiva que recebeu no mês, e é dividído
   1. Coluna DATA: Inserir a data completa da entrada, para facilitar a visualização, a coluna está formatada para MÊS e ANO (mmmm "de" aaaa); 
   2. Coluna CATEGORIA: Escolhe uma das três opções da lista (CNPJ, HOLERITE OU FREELANCER); 
   3. Coluna VALOR: Valor em R$ da entrada;
-  4. Coluna DECLARADOS: Confirmação se essa entrada se aplica para a declaração de Imposto de Renda. 
+  4. Coluna DECLARADOS: Confirmação se essa entrada se aplica para a declaração de Imposto de Renda.
+  5. Coluna OCULTA
   
 Não só nessa tabela contém filtros para auxiliar na análise dos dados, mas também temos uma **Segmentação de Dados** para deixar mais prático o controle das informações. Isso inclui as *CATEGORIAS*, *MÊS & ANO* e *DECLARADOS*. 
 
@@ -93,3 +95,11 @@ Também tem uma planilha chamada ****"CONFIG"**** que contém os ***NOMES DOS BA
 
 Gostaria de agradecer ao professor da DIO, Felipe Aguiar, pelas aulas fantásticas e explicações sobre o tema.
 Futuramente posso fazer um ajuste ou outro no arquivo e em suas funcionalidades, caso necessário.
+
+Vou deixar também na pasta a versão EXPERIMENTAL da ferramenta, contendo um gráfico a mais
+
+## 📥 Download da Planilha do Projeto
+
+[📊 Baixar planilha Excel]
+
+
